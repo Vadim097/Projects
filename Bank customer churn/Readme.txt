@@ -1,15 +1,15 @@
-Проект. Отток клиентов.
+Project. Customer churn.
 
-Из «Бета-Банка» стали уходить клиенты. Каждый месяц.
-Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет на основе исторических данных о поведении клиентов и расторжении договоров с банком.
-Цель проекта: построить 2 модели классификации, обучить их на исторических данных (признаках), выбрать лучшую и довести ее метрики качества до максимально возможных.
+Customers began to leave Beta-Bank. Every month.
+It is necessary to predict whether a client will leave the bank in the near future or not based on historical data on customer behavior and termination of agreements with the bank.
+The goal of the project: to build 2 classification models, train them on historical data (features), choose the best one and bring its quality metrics to the maximum possible.
 
-В проекте реализованы 2 модели:  модель логистической регрессиии и модель случайного леса. Лучшей себя показала модель случайного леса как при подборе параметров, 
-так и на тестовой выборке. Основные метрики качества модели случайного леса на тестовой выборке:
+The project implemented 2 models: a logistic regression model and a random forest model. The random forest model showed itself to be the best, both in the selection of parameters,
+as well as on the test set. The main quality metrics of a random forest model on a test set:
 
-Accuracy лучшей модели: 0.863 - доля верных ответов предсказанных моделью
-F1 лучшей модели: 0.636 - среднее гармоническое (качество прогноза положительного класса)
-Auc_roc составил 0.868 - доля верных ответов модели (или площадь под кривой)
+Accuracy of the best model: 0.863 - the proportion of correct answers predicted by the model
+F1 of the best model: 0.636 - harmonic mean (positive class forecast quality)
+Auc_roc was 0.868 - the proportion of correct answers of the model (or the area under the curve)
 
-На графике ROC-кривой хорошо видно на сколько кривая реализованной модели поднимается над "кривой" случайной модели. 
-Разность их площадей 0.86-0.5= 0.36, т е на 36% реализованная модель эффективнее случайной и в 86% случаев дает верный результат.
+The graph of the ROC curve clearly shows how much the curve of the implemented model rises above the "curve" of the random model.
+The difference between their areas is 0.86-0.5= 0.36, i.e., the implemented model is 36% more efficient than the random one and in 86% of cases gives the correct result.
