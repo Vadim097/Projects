@@ -9,9 +9,9 @@ To build a machine learning model that will help determine the region where mini
 
 ## Research progress
 
-Data review
-Data preprocessing
-Train and validate the model
-Calculation of profit and loss hazard
+- Data review
+- Data preprocessing
+- Train and validate the model
+- Calculation of profit and loss hazard
 
 Python Scikit-learn Numpy Matplotlib Pandas Bootstrap
