@@ -14,5 +14,5 @@ To build a machine learning model that will help determine the region where mini
 - Train and validate the model
 - Calculation of profit and loss hazard
 
-![python]https://img.shields.io/pypi/pyversions/p?style=plastic
+![python](https://img.shields.io/pypi/pyversions/p?style=plastic)
 Python Scikit-learn Numpy Matplotlib Pandas Bootstrap
