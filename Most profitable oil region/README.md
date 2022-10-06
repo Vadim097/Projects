@@ -1,14 +1,17 @@
-# music-of-the-big-cities
-Survey of musical preferences between two cities: Moscov and Sain-Petersberg
+# Most profitable oil region
+![image](https://user-images.githubusercontent.com/96144673/194311178-f8c91590-1762-4efe-a12d-a8f07243ef9d.png)
 
-Comparison Moscow and St. Petersburg is surrounded in myths. For example:
+There are oil samples in three regions: in each 10,000 deposits, where the quality of oil and the volume of its reserves were measured. It is necessary to choose the deposit with the highest volume of reserves. The number of fields depends on the company's budget and the cost of developing one well.
 
-Moscow — megapolis with hard rithm workweek;
-Sain-Petersberg — cultural capital, with own style.
-In accordance data of Yandex.music has been done comparison both capitals.
+## Survey target
 
-Survey target — check 3 gypothesis:
+To build a machine learning model that will help determine the region where mining will bring the greatest profit.
 
-Users activity depends of day of the week. Moreover in Moscow and St. Petersburg this looks different.
-On Monday morning, certain genres dominate in Moscow, while others dominate in St. Petersburg. Also, Friday evenings are dominated by different genres, depending on the city.
-Moscow and St. Petersburg prefer different genres of music. In Moscow, they listen to pop music more often, in St. Petersburg - Russian rap.
+## Research progress
+
+Data review
+Data preprocessing
+Train and validate the model
+Calculation of profit and loss hazard
+
+Python Scikit-learn Numpy Matplotlib Pandas Bootstrap
