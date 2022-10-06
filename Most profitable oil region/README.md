@@ -16,9 +16,10 @@ To build a machine learning model that will help determine the region where mini
 
 ![python](https://img.shields.io/badge/Python-3.9-blue)
 ![Numpy](https://img.shields.io/badge/Numpy-%20-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%20-brightgreen)
-![Pandas](https://img.shields.io/badge/Pandas-%20-yellowgreen)
+
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%20-red)
 <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikit-learn&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Matplotlib-DarkCyan?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Pandas-DarkSlateGray?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Numpy-DarkSlateGray?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
