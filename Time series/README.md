@@ -21,6 +21,6 @@ Build the best model. The *RMSE* metric on the test set should not exceed 48.
 <img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikit-learn&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Matplotlib-DarkCyan?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Pandas-DarkSlateGray?style=flat&logo=pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Torch-OrangeRed?style=flat&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Catboost-Salmon?style=flat&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Seaborn-SkyBlue?style=flat&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/PyTorch-OrangeRed?style=flat&logo=PyTorch&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Catboost-Salmon?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Seaborn-SkyBlue?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
