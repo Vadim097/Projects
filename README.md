@@ -1,6 +1,6 @@
 # Projects
 Project name | Description | Libraries used
------- | -----------------------------------------------------------------------------------|----------
+------ | -----------------------------------------------------------------------------------|-----------
 Forecasting the Bank's customer churn |Clients started leaving the bank. Every month. A little, but noticeable. Banking marketers figured it was cheaper to keep current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. Provided historical data on customer behavior and termination of agreements with the bank.                                                    | Scikit-learn Pandas Matplotlib
 Forecasting the cost of housing in a residential area. |The service for the sale of apartments ordered the development of a model for predicting the cost of an apartment | Spark Pandas Python
 Hotel Sales Forecasting System |A model for predicting the cancellation of a client's reservation is built. As a metric, it is proposed to use the amount of revenue that will be obtained after the implementation of the machine learning model.                    | Python Scikit-learn Pandas Matplotlib Numpy Exploratory data analysis
