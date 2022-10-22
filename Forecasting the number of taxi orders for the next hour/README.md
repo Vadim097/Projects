@@ -1,7 +1,9 @@
 # Most profitable oil region
 ![image](https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Taxis_iStock.com_Foto%20Maxiphoto_DL_PPT_0.jpg?h=e5aec6c8&itok=gazAZU5e)
 
-The Accurate Taxi company collects historical data on taxi orders at airports. To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour.
+**Project description:**
+
+The Accurate Taxi company collects historical data on taxi orders at airports. To attract more drivers during the peak period, it needs to predict the number of taxi orders for the next hour.
 
 
 ## Project progress:
