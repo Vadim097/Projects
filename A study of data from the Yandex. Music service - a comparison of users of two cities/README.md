@@ -1,5 +1,5 @@
 # Music of the cities
-![image-2.png](attachment:image-2.png)
+![image.png](attachment:image.png)
 
 **Project description:**
 
