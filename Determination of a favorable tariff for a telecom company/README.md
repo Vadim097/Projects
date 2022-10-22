@@ -29,3 +29,9 @@ difference in revenue of subscribers from Moscow and other regions.
 - Math
 
 **Project status:** Project completed.
+
+![python](https://img.shields.io/badge/Python-3.9-blue)
+<img src="https://img.shields.io/badge/Numpy-DarkSlateGray?style=flat&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Matplotlib-DarkCyan?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Pandas-DarkSlateGray?style=flat&logo=pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Seaborn-SkyBlue?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
