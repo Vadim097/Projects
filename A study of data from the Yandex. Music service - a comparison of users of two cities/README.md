@@ -1,14 +1,21 @@
-# music-of-the-big-cities
-Survey of musical preferences between two cities: Moscov and Sain-Petersberg
+# Music of the cities
+**Project description:**
 
-Comparison Moscow and St. Petersburg is surrounded in myths. For example:
-
-Moscow — megapolis with hard rithm workweek;
-Sain-Petersberg — cultural capital, with own style.
-In accordance data of Yandex.music has been done comparison both capitals.
+Comparison of Moscow and St. Petersburg is surrounded by myths:
+-- Moscow is a metropolis subject to the rigid rhythm of the working week;
+-- Petersburg is a city of unique culture, unlike Moscow.
+Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. On the real Yandex.Music data, it needs to check the data and compare the behavior of users in the two capitals.
      
-Survey target — check 3 gypothesis:
+**Project target:** 
 
-Users activity depends of day of the week. Moreover in Moscow and St. Petersburg this looks different.
-On Monday morning, certain genres dominate in Moscow, while others dominate in St. Petersburg. Also, Friday evenings are dominated by different genres, depending on the city.
-Moscow and St. Petersburg prefer different genres of music. In Moscow, they listen to pop music more often, in St. Petersburg - Russian rap.
+Check 3 gypothesis:
+1. Users activity depends of day of the week. Moreover in Moscow and St. Petersburg this looks different.
+2. On Monday morning, certain genres dominate in Moscow, while others dominate in St. Petersburg. Also, Friday evenings are dominated by different genres, depending on the city.
+3. Moscow and St. Petersburg prefer different genres of music. In Moscow, they listen to pop music more often, in St. Petersburg - Russian rap.
+
+**Stack:**
+
+- Python 
+- Pandas
+
+**Project status:** Project completed.
