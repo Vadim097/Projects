@@ -1,5 +1,5 @@
 # Telecom_tariffs
-![image](https://us.123rf.com/450wm/raccoondaydream/raccoondaydream1806/raccoondaydream180600099/103696419-vector-abstract-background-technology-electronic-illustration-communication-data.jpg?ver=6)
+![image](https://img.freepik.com/free-vector/mobile-telecommunicatidigital-tower-background_1017-23175.jpg?w=1060&t=st=1666459835~exp=1666460435~hmac=722f5abc8341a71147f5850b62980dc15d50eb1a7fba9afb07f4aae317208d37)
 
 **Project description:**
 
