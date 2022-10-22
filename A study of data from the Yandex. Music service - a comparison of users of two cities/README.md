@@ -6,6 +6,7 @@
 Comparison of Moscow and St. Petersburg is surrounded by myths:
 
 \- Moscow is a metropolis subject to the rigid rhythm of the working week;
+
 \- Petersburg is a city of unique culture, unlike Moscow.
 Some myths reflect reality. Others are empty stereotypes. Business must distinguish the former from the latter in order to make rational decisions. On the real Yandex.Music data, it needs to check the data and compare the behavior of users in the two capitals.
      
@@ -26,3 +27,6 @@ During the project, an exploratory data analysis was carried out, all three hypo
 - Pandas
 
 **Project status:** Project completed.
+
+![python](https://img.shields.io/badge/Python-3.9-blue)
+<img src="https://img.shields.io/badge/Pandas-DarkSlateGray?style=flat&logo=pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>
