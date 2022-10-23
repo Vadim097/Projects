@@ -1,8 +1,8 @@
-Проект. Отток клиентов.
+# Bank customer churn
 
-Из «Бета-Банка» стали уходить клиенты. Каждый месяц.
-Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет на основе исторических данных о поведении клиентов и расторжении договоров с банком.
-Цель проекта: построить 2 модели классификации, обучить их на исторических данных (признаках), выбрать лучшую и довести ее метрики качества до максимально возможных.
+
+Clients started leaving the bank. Every month. Few, but noticed. Bank marketers considered that the main customers are cheaper than attracting new ones.
+It is necessary to predict whether the client of the bank will leave in the near future or not. Provided historical data on customer behavior and termination of agreements with the bank.
 
 В проекте реализованы 2 модели:  модель логистической регрессиии и модель случайного леса. Лучшей себя показала модель случайного леса как при подборе параметров, 
 так и на тестовой выборке. Основные метрики качества модели случайного леса на тестовой выборке:
