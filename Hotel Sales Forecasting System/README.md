@@ -1,4 +1,4 @@
-# Determining the cost of cars. Gradient boosting. 
+# Hotel Sales Forecasting System
 
 **Project description:**
 
