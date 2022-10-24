@@ -1,5 +1,4 @@
 # Most profitable oil region
-![image](https://user-images.githubusercontent.com/96144673/194311178-f8c91590-1762-4efe-a12d-a8f07243ef9d.png)
 
 **Project description:**
 

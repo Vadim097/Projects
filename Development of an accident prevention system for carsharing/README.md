@@ -1,5 +1,4 @@
 # Accident prevention system
-![image](https://motorplanetofficial.com/wp-content/uploads/2021/08/adas-modified-1.jpg)
 
 **Project description:**
 

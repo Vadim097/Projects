@@ -1,15 +1,26 @@
 # Bank customer churn
 
+**Project description:**
 
 Clients started leaving the bank. Every month. Few, but noticed. Bank marketers considered that the main customers are cheaper than attracting new ones.
 It is necessary to predict whether the client of the bank will leave in the near future or not. Provided historical data on customer behavior and termination of agreements with the bank.
 
-В проекте реализованы 2 модели:  модель логистической регрессиии и модель случайного леса. Лучшей себя показала модель случайного леса как при подборе параметров, 
-так и на тестовой выборке. Основные метрики качества модели случайного леса на тестовой выборке:
 
-Accuracy лучшей модели: 0.863 - доля верных ответов предсказанных моделью
-F1 лучшей модели: 0.636 - среднее гармоническое (качество прогноза положительного класса)
-Auc_roc составил 0.868 - доля верных ответов модели (или площадь под кривой)
+**Project target:** 
 
-На графике ROC-кривой хорошо видно на сколько кривая реализованной модели поднимается над "кривой" случайной модели. 
-Разность их площадей 0.86-0.5= 0.36, т е на 36% реализованная модель эффективнее случайной и в 86% случаев дает верный результат.
+Build a model with an extremely large F1-measure
+
+**Project results:**
+
+During the project, data was pre-processed, and a method for filling gaps using machine learning was tested. 2 models are implemented: logistic regression model and random forest model. In each of these models, three methods of class balancing have been tried. The f1 measure is chosen as the quality metric. The final model has a roc-curve.
+
+**Stack:**
+
+- Python 
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Numpy
+
+**Project status:** Project completed.

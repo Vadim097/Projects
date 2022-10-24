@@ -1,28 +1,28 @@
-# Most profitable oil region
-![image](https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Taxis_iStock.com_Foto%20Maxiphoto_DL_PPT_0.jpg?h=e5aec6c8&itok=gazAZU5e)
+# Forecasting the number of taxi orders for the next hour
 
 **Project description:**
 
 The Accurate Taxi company collects historical data on taxi orders at airports. To attract more drivers during the peak period, it needs to predict the number of taxi orders for the next hour.
 
-
-## Project progress:
-
-- Loading and initial review of data.
-- Data analysis.
-- Train models with different hyperparameters.
-- Checking data on a test sample
-- General conclusion.
-
-Objective of the project:
+**Project target:** 
 
 Build the best model. The *RMSE* metric on the test set should not exceed 48.
 
-![python](https://img.shields.io/badge/Python-3.9-blue)
-<img src="https://img.shields.io/badge/Numpy-DarkSlateGray?style=flat&logo=NumPy&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Scikit--learn-blue?style=flat&logo=scikit-learn&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Matplotlib-DarkCyan?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Pandas-DarkSlateGray?style=flat&logo=pandas&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/PyTorch-OrangeRed?style=flat&logo=PyTorch&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Catboost-Salmon?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/Seaborn-SkyBlue?style=flat&logo=&logoColor=ЦВЕТ ЛОГОТИПА"/>
+**Project results:**
+
+During the project, an exploratory data analysis was performed, additional features were generated, three models were built (linear regression, fully connected neural network and gradient boosting). The best model is determined, RMSE is calculated, conclusions are given.
+
+**Stack:**
+
+- Python 
+- Pandas
+- Scikit-learn
+- Skorch
+- Catboost
+- Torch
+- Matplotlib
+- Numpy
+- Seaborn
+
+
+**Project status:** Project completed.

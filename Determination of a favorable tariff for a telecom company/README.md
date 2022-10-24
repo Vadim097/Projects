@@ -1,5 +1,4 @@
 # Telecom tariffs
-![image](https://img.freepik.com/free-vector/mobile-telecommunicatidigital-tower-background_1017-23175.jpg?w=1060&t=st=1666459835~exp=1666460435~hmac=722f5abc8341a71147f5850b62980dc15d50eb1a7fba9afb07f4aae317208d37)
 
 **Project description:**
 
